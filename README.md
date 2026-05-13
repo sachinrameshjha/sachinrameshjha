@@ -43,7 +43,7 @@ Conflict-economy-climate dashboard for 10 countries (2000–2024). Python ETL �
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sachin--jha-blue?logo=linkedin)](https://linkedin.com/in/sachinrameshjha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sachin--jha-blue?logo=linkedin)](https://www.linkedin.com/in/sachin-jha-74b4a679/)
 [![GitHub](https://img.shields.io/badge/GitHub-sachinrameshjha-black?logo=github)](https://github.com/sachinrameshjha)
 
 *Open to Senior Data Analyst and AI/ML Engineer roles.*
