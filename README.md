@@ -27,8 +27,8 @@ Built a full LLM engineering stack from scratch — HTTP → API calls → conve
 ### 🐍 [Python Foundations](https://github.com/sachinrameshjha/python-llm-foundations)
 Active-recall Python curriculum using Study → Hide → Write method. Covers variables through OOP classes, with a 5-challenge Boss Round.
 
-### 📊 Wars & Their Wake *(coming soon)*
-Conflict-economy-climate dashboard for 10 countries (2000–2024). Python ETL → NeonDB → Metabase. Data from ACLED, World Bank, FRED, UNHCR.
+### 📊 [Smart Support Desk LLM+RAG](https://github.com/sachinrameshjha/Smart-Support-Desk-RAG-LLM))
+An AI-powered customer support triage system that reads incoming emails, retrieves the most relevant company policy using vector search, and auto-drafts structured replies — all running locally.
 
 ---
 
@@ -43,7 +43,7 @@ Conflict-economy-climate dashboard for 10 countries (2000–2024). Python ETL �
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sachin--jha-blue?logo=linkedin)](https://www.linkedin.com/in/sachin-jha-74b4a679/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sachin--jha-blue?logo=linkedin)](https://www.linkedin.com/in/sachinrameshjha/)
 [![GitHub](https://img.shields.io/badge/GitHub-sachinrameshjha-black?logo=github)](https://github.com/sachinrameshjha)
 
 *Open to Senior Data Analyst and AI/ML Engineer roles.*
