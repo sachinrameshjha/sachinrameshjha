@@ -27,7 +27,7 @@ Built a full LLM engineering stack from scratch — HTTP → API calls → conve
 ### 🐍 [Python Foundations](https://github.com/sachinrameshjha/python-llm-foundations)
 Active-recall Python curriculum using Study → Hide → Write method. Covers variables through OOP classes, with a 5-challenge Boss Round.
 
-### 📊 [Smart Support Desk LLM+RAG](https://github.com/sachinrameshjha/Smart-Support-Desk-RAG-LLM))
+### 📊 [Smart Support Desk LLM+RAG](https://github.com/sachinrameshjha/Smart-Support-Desk-RAG-LLM)
 An AI-powered customer support triage system that reads incoming emails, retrieves the most relevant company policy using vector search, and auto-drafts structured replies — all running locally.
 
 ---
