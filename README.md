@@ -18,9 +18,9 @@ I build data pipelines, LLM-powered tools, and AI infrastructure — currently f
 `ESG & Climate Risk` `Financed Emissions (PCAF/TCFD)` `Consumer Banking` `Asset Management`
 
 ---
-🚀 Featured: LLM Hoster
+## 🚀 Featured: LLM Hoster
 
-<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/c3834d72-512e-4b02-8f35-ffe12b3eb22e" />
+<img width="140" height="140" alt="image" src="https://github.com/user-attachments/assets/c3834d72-512e-4b02-8f35-ffe12b3eb22e" />
 
 Run local LLM inference on Android. No cloud. No API key.
 LLM Hoster runs GGUF models directly on your Android device using llama.cpp and exposes an OpenAI-compatible API over your local network — so any app that speaks OpenAI can talk to your phone.
