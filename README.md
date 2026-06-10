@@ -43,7 +43,7 @@ An AI-powered customer support triage system that reads incoming emails, retriev
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sachin--jha-blue?logo=linkedin)](https://www.linkedin.com/in/sachinrameshjha/)
-[![GitHub](https://img.shields.io/badge/GitHub-sachinrameshjha-black?logo=github)](https://github.com/sachinrameshjha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sachin-Ramesh-Jha-blue?logo=linkedin)](https://www.linkedin.com/in/sachinrameshjha/)
+[![GitHub](https://img.shields.io/badge/GitHub-Sachin-Ramesh-Jha-black?logo=github)](https://github.com/sachinrameshjha)
 
 *Open to Senior Data Analyst and AI/ML Engineer roles.*
