@@ -19,6 +19,7 @@ I build data pipelines, LLM-powered tools, and AI infrastructure — currently f
 
 ---
 🚀 Featured: LLM Hoster
+
 <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/c3834d72-512e-4b02-8f35-ffe12b3eb22e" />
 
 Run local LLM inference on Android. No cloud. No API key.
