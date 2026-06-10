@@ -25,11 +25,12 @@ I build data pipelines, LLM-powered tools, and AI infrastructure — currently f
 Run local LLM inference on Android. No cloud. No API key.
 LLM Hoster runs GGUF models directly on your Android device using llama.cpp and exposes an OpenAI-compatible API over your local network — so any app that speaks OpenAI can talk to your phone.
 
-📱 Published on Google Play [LLM Hoster](https://play.google.com/store/apps/details?id=com.joblessaideveloper.llm_hoster)
-⚡ Powered by llama.cpp — runs quantized GGUF models on-device
-🌐 Exposes /v1/chat/completions over LAN
-🔌 Drop-in replacement for OpenAI API on local network
-🔒 Fully offline — no data leaves your device
+**📱 Published on Google Play**
+[LLM Hoster](https://play.google.com/store/apps/details?id=com.joblessaideveloper.llm_hoster)
+**⚡ Powered by llama.cpp — runs quantized GGUF models on-device**
+**🌐 Exposes /v1/chat/completions over LAN**
+**🔌 Drop-in replacement for OpenAI API on local network**
+**🔒 Fully offline — no data leaves your device**
 
 >> Check below projects to 'Know How' working of the app. :) 
 
