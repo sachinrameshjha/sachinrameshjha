@@ -65,5 +65,4 @@ A lightweight FastAPI-based trade journal with built-in LLM integration for chat
 [![GitHub](https://img.shields.io/badge/GitHub-Sachin--Ramesh--Jha-black?logo=github)](https://github.com/sachinrameshjha)
 [![Portfolio](https://shields.io)](https://sachincreates.site)
 
-
 *Open to Senior Data Analyst and AI/ML Engineer roles.*
