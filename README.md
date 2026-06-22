@@ -45,6 +45,9 @@ Active-recall Python curriculum using Study → Hide → Write method. Covers va
 ### 📊 [Smart Support Desk LLM+RAG](https://github.com/sachinrameshjha/Smart-Support-Desk-RAG-LLM)
 An AI-powered customer support triage system that reads incoming emails, retrieves the most relevant company policy using vector search, and auto-drafts structured replies — all running locally.
 
+### 📈 [TradeBook API](https://github.com/sachinrameshjha/TradeBook_API)
+A lightweight FastAPI-based trade journal with built-in LLM integration for chat and trade analysis.
+
 ---
 
 ## 💼 Background
