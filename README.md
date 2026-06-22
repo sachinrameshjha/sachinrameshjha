@@ -63,6 +63,6 @@ A lightweight FastAPI-based trade journal with built-in LLM integration for chat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sachin--Ramesh--Jha-blue?logo=linkedin)](https://www.linkedin.com/in/sachinrameshjha/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sachin--Ramesh--Jha-black?logo=github)](https://github.com/sachinrameshjha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Sachin_Creates-green?logo=googlechrome)](https://sachincreates.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Sachin--Ramesh--Jha-orange?logo=w3c)](https://sachincreates.site)
 
 *Open to Senior Data Analyst and AI/ML Engineer roles.*
